@@ -1,2 +1,2 @@
 # Proyectos 
-  Ésta carpeta está destinada a los diferentes proyectos de la clase
+Ésta carpeta está destinada a los diferentes proyectos de la clase
